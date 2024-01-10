@@ -28,3 +28,4 @@ C:\Users\dogan\OneDrive\Masaüstü\code\MvcFormsApp\obj\Debug\net8.0\refint\MvcF
 C:\Users\dogan\OneDrive\Masaüstü\code\MvcFormsApp\obj\Debug\net8.0\MvcFormsApp.pdb
 C:\Users\dogan\OneDrive\Masaüstü\code\MvcFormsApp\obj\Debug\net8.0\MvcFormsApp.genruntimeconfig.cache
 C:\Users\dogan\OneDrive\Masaüstü\code\MvcFormsApp\obj\Debug\net8.0\ref\MvcFormsApp.dll
+C:\Users\dogan\OneDrive\Masaüstü\code\MvcFormsApp\obj\Debug\net8.0\MvcFormsApp.sourcelink.json
