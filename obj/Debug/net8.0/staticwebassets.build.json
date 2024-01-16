@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XgsjSNUSjZDIt5vg4+CJZDFCyI62aZf/U92u4Qvoa/8=",
+  "Hash": "mmWsqLwS9emZAlUNZ+o10qWlQe9q6BM7tJ9QfrliQm0=",
   "Source": "MvcFormsApp",
   "BasePath": "_content/MvcFormsApp",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dogan\\OneDrive\\Masaüstü\\code\\MvcFormsApp\\wwwroot\\img\\5650f7d2-3781-4db2-ba8f-8dfd4b2d1052.jpg",
+      "SourceId": "MvcFormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dogan\\OneDrive\\Masaüstü\\code\\MvcFormsApp\\wwwroot\\",
+      "BasePath": "_content/MvcFormsApp",
+      "RelativePath": "img/5650f7d2-3781-4db2-ba8f-8dfd4b2d1052.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\5650f7d2-3781-4db2-ba8f-8dfd4b2d1052.jpg"
     },
     {
       "Identity": "C:\\Users\\dogan\\OneDrive\\Masaüstü\\code\\MvcFormsApp\\wwwroot\\img\\6.jpg",

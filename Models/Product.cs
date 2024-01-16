@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace MvcFormsApp.Models
 {
-    public class Product
-   {
+     public class Product
+    {
         [Display(Name="Ürün Id")]
         public int ProductId { get; set; }
         [Required(ErrorMessage = "Ürün adı zorunludur")]
@@ -20,11 +20,13 @@ namespace MvcFormsApp.Models
         [Display(Name="Ürün Fiyatı")]
         public double Price { get; set; }
         [Display(Name="Ürün Resmi")]
-        [Required(ErrorMessage = "Fotoğraf zorunludur")]
-        public string Image { get; set; }
+        
+        public string? Image { get; set; }
         [Display(Name="Aktif Mi?")]
         public bool IsActive { get; set; }
         [Display(Name="Kategori")]
         public int CategoryId { get; set; }
+
+        public IFormFile? ImageFile { get; set; }
     }
 }
